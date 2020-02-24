@@ -1,16 +1,40 @@
+.content-box{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #EEE;
+  background-color: #EEE;  
+}
+
+#banner{
+  color: #DDD;
+  padding: 20px;
+  background-image: url("http://wallpapercave.com/wp/wc1756084.jpg");
+  background-size: 100%;
+}
+
+#transparent{
+  background-color:#FFF;
+  opacity: 0.9;
+  border-radius: 10px;
+  color:#000;
+}
+
 # tribute-page
 <div class="container-fluid text-center">
   
    <div class="content-box">
-     <h2>Robert Nesta Marley</h2>
+     <h2>Robert</h2>
      <div id="banner" align="left">
        <div class="row">
          <div class="col-md-4">
            <img src="http://thewallpaper.co/wp-content/uploads/2016/03/bob-marley-wallpaper-background-download-desktop-hd-music-images-jamaica-frases-reggae-one-love-rasta-wallpaper-of-bob-marley-amazing-1920x1080-300x200.jpg" width="80%" style="border: solid thick #EEE;" class="img-responsive"> 
          </div>
-         <div class="col-md-7"><br>     <u><h6>The King Of Reggae Music</h6></u>
+         <div class="col-md-7"><br>     <u><h6>The King Of</h6></u>
             <em><h5>"The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively."</h5> 
-</em><si>- Robert Nesta Marley(Bob Marley).</i>
+</em><si>- Robert.</i>
          </div>
        </div>
   <br>
