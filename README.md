@@ -1,4 +1,5 @@
-.content-box{
+<style>
+  .content-box{
   margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
@@ -21,6 +22,7 @@
   border-radius: 10px;
   color:#000;
 }
+  </style>
 
 # tribute-page
 <div class="container-fluid text-center">
