@@ -13,7 +13,7 @@
 #banner{
   color: #DDD;
   padding: 20px;
-  background-image: url("https://wallpapercave.com/wp/Qym2Jko.jpg");
+  background-image: url("https://cdn.vox-cdn.com/thumbor/JFUSDUMcsnc53xcnqt15ewrdVSM=/0x0:2227x1482/1820x1213/filters:focal(936x563:1292x919)/cdn.vox-cdn.com/uploads/chorus_image/image/60991523/521028444.jpg.0.jpg");
   background-size: 100%;
 }
 div {
