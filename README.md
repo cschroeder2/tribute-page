@@ -16,6 +16,9 @@
   background-image: url("https://wallpapercave.com/wp/Qym2Jko.jpg");
   background-size: 100%;
 }
+div {
+    background: linear-gradient(to bottom right, #ffff66 0%, #9900cc 100%);
+}
 
 #transparent{
   background-color:#FFF;
