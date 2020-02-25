@@ -32,15 +32,15 @@ div {
 <div class="container-fluid text-center">
   
    <div class="content-box">
-     <h2>Robert</h2>
+     <h2>Kobe Bryany</h2>
      <div id="banner" align="left">
        <div class="row">
          <div class="col-md-4">
            <img src="https://cdn.vox-cdn.com/thumbor/JFUSDUMcsnc53xcnqt15ewrdVSM=/0x0:2227x1482/1820x1213/filters:focal(936x563:1292x919)/cdn.vox-cdn.com/uploads/chorus_image/image/60991523/521028444.jpg.0.jpg" width="90%" style="border: solid thick #EEE;" class="img-responsive"> 
          </div>
-         <div class="col-md-7"><br>     <u><h6>The King Of</h6></u>
+         <div class="col-md-7"><br>     <u><h6>The Black Mamba</h6></u>
             <em><h5>"The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively."</h5> 
-</em><si>- Robert.</i>
+</em><si>- Kobe Bryant.</i>
          </div>
        </div>
   <br>
@@ -88,7 +88,7 @@ In 19</li>
            <p><em><b>"He wanted "</b></em><i>- the lead </i></p>
            <br>
            <br>
-           Read more about  on his <a href="https://en.wikipedia.org/wiki/Bob_Marley" target="blank">Wikipedia entry</a>.<br><br>
+           Read more about  on his <a href="https://en.wikipedia.org/wiki/Kobe_Bryant" target="blank">Wikipedia entry</a>.<br><br>
          </div>
          <div class="col-md-1"></div>
        </div>
