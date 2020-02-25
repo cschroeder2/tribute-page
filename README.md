@@ -32,7 +32,7 @@ div {
 <div class="container-fluid text-center">
   
    <div class="content-box">
-     <h2>Kobe Bryany</h2>
+     <h2>Kobe Bryant</h2>
      <div id="banner" align="left">
        <div class="row">
          <div class="col-md-4">
