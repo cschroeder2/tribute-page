@@ -13,7 +13,7 @@
 #banner{
   color: #DDD;
   padding: 20px;
-  background-image: url("https://wallpapercave.com/wp/WK07AJG.jpg");
+  background-image: url("https://wallpapercave.com/wp/Qym2Jko.jpg");
   background-size: 100%;
 }
 
