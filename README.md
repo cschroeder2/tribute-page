@@ -13,7 +13,7 @@
 #banner{
   color: #DDD;
   padding: 20px;
-  background-image: url("https://cdn.vox-cdn.com/thumbor/JFUSDUMcsnc53xcnqt15ewrdVSM=/0x0:2227x1482/1820x1213/filters:focal(936x563:1292x919)/cdn.vox-cdn.com/uploads/chorus_image/image/60991523/521028444.jpg.0.jpg");
+  background-image: url("");
   background-size: 100%;
 }
 div {
@@ -36,7 +36,7 @@ div {
      <div id="banner" align="left">
        <div class="row">
          <div class="col-md-4">
-           <img src="http://thewallpaper.co/wp-content/uploads/2016/03/bob-marley-wallpaper-background-download-desktop-hd-music-images-jamaica-frases-reggae-one-love-rasta-wallpaper-of-bob-marley-amazing-1920x1080-300x200.jpg" width="80%" style="border: solid thick #EEE;" class="img-responsive"> 
+           <img src="https://cdn.vox-cdn.com/thumbor/JFUSDUMcsnc53xcnqt15ewrdVSM=/0x0:2227x1482/1820x1213/filters:focal(936x563:1292x919)/cdn.vox-cdn.com/uploads/chorus_image/image/60991523/521028444.jpg.0.jpg" width="80%" style="border: solid thick #EEE;" class="img-responsive"> 
          </div>
          <div class="col-md-7"><br>     <u><h6>The King Of</h6></u>
             <em><h5>"The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively."</h5> 
